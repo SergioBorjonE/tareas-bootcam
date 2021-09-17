@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fe624c;
+}
+
+.contg{
+    display: flex;
+    flex-basis: 100%;
+    align-items: center;
+    justify-content: normal;
+    flex-wrap: wrap;
+}
+ 
+.contc{
+    background-color: #009cc5;
+    align-items: center;
+    text-align: center;
+    padding-top: 5vh;
+    font-size: 4.68em;
+    color: white;
+    font-weight: bolder;
+    flex-basis: 23%;
+    height: 20vh;
+    margin: 1%;
+}

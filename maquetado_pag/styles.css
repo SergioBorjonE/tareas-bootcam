@@ -1,0 +1,241 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.cardamomo.news/__export/1616776817548/sites/debate/img/2021/03/26/xcxmo_hacer_pozole_rojo_de_pollo_receta_fxcil_para_30_personas_crop1616776519528.jpeg_242310155.jpeg);
+    background-size: 100%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: black;
+    height: 45px;
+}
+
+h1{
+    width: 80%;
+    padding: 0.93em;
+    color: white;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+article{
+    align-content: flex-start;
+
+}
+
+.botneg{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+    border: 0;
+    height:45px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    width: auto;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.containerc{
+    display: flex;
+    width: 50%;
+    align-content: center;
+    justify-content: normal; 
+}
+
+.textconthor{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    font-family: monospace;
+    font-size: 32px;
+}
+
+.textcontver{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    font-family: monospace;
+}
+
+.pwhite{
+    width: 60%;
+    height: 30vh;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.pblack{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.botora{
+    background-color:orangered;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    border: 0;
+    height:60px;
+    width: 100px;
+    margin: 4%;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+}
+
+.botran{
+    background:none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    border: 2px solid white ;
+    height:60px;
+    width: 100px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    margin: 4%;
+}
+
+.caja{
+    display: flex;
+    flex-direction: column ;
+    background-color: orangered;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 31%;
+    height: 27vh;
+    padding-top: 2%;
+    margin:1%;  
+    align-content: center;
+    text-align: center;
+    padding-top: 10%;
+}
+
+img{
+    margin: 0 auto;
+}
+
+.blacktextcontainer{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.marcora{
+    border: 5px solid orangered;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.login{
+    width:auto;
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+    background-color: rgb(211, 211, 211,0.6);
+    align-content: center;
+    margin: 1% auto;
+}
+
+.botranred{
+    background:white;
+    font-family: 'Roboto', sans-serif;
+    border:none;
+    height: 30px;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 4%;
+}
+
+.botoranred{
+    background:rgb(255, 69, 0,0.6);
+    border: none;
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    margin: 4%;
+    border-radius: 5px;
+}
+
+.botoranredc{
+    background:rgb(255, 69, 0,0.7);
+    width: 40% ;
+    height: 30px;
+    border : none;
+    font-family: 'Roboto', sans-serif;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+    margin: 4%;
+    border-radius: 5px;
+
+}
+
+.containerver{
+    width:auto;
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 1% auto;
+
+}
+
+.containerhor{
+    margin-top: 20px;
+    padding-top: 1.2%;
+    padding-bottom: 1.2%;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+
+
+}
+
+footer{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    align-content: center;
+    justify-content: space-between;
+    color:white
+}
+
+.contfootleft{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    padding-left: 5mm;
+    align-content: center;
+}
+
+.imagecont{
+    display: flex;
+    flex-direction: column;
+    width:32%;
+    align-content: center;
+}
